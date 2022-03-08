@@ -1,1 +1,2 @@
-- Hello, world!
+- Hello, world! 
+- 업데이트 되었습니다!
